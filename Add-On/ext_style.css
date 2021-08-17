@@ -1,0 +1,16 @@
+ul>li {
+  border: 1px solid #EE3C7E;
+  border-radius: 2px;
+  padding: 3px;
+  margin: 10px;
+  cursor: pointer;
+  background-color: #5ED0BD;
+  font-size: 12px;
+  box-shadow: 1px 1px 5px #ccc;
+  transition: 100ms;
+}
+
+ul>li:hover{
+  transform: translate(-1px);
+  opacity: 0.8;
+}
